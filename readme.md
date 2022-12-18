@@ -1,7 +1,12 @@
-# CSS project1 from Wasim Ansari
+# Wasim Ansari
 
-## This project all about css position.
+## What I have learnt in this project.
+- Classes 
+- Selectors
+- Pseudo Selectors
+- Flex box
 
-### This project takes about three hour to make.
+## Time taken to complete.
+- The project took almost 1 day to complete.
 
-[netlify](https://css-firstproject.netlify.app)
+[netlify](https://css-firstproject.netlify.app "Live link")
